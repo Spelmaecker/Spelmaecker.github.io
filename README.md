@@ -1,3 +1,5 @@
 ﻿### GithubPage Davy Baetens
 
-Stijn kan niet mee oléolé
+Oefeningen uit lessenreeks Tools & Data
+
+* (Oefening les 2)[https://github.com/Spelmaecker/oefeningenles2_davybaetens]
